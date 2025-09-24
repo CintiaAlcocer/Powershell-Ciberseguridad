@@ -1,0 +1,16 @@
+=== REPORTE DE USUARIOS ===
+Generado: 2025-09-17 18:36:57
+
+Resumen:
+  Total cuentas detectadas: 5
+  Cuentas sin logon registrado: 3
+  Cuentas con logon registrado: 2
+
+Usuarios que NUNCA han iniciado sesión o sin información de último acceso:
+ - DefaultAccount: Estado = False, Ultimo acceso = NUNCA
+ - Invitado: Estado = False, Ultimo acceso = NUNCA
+ - WDAGUtilityAccount: Estado = False, Ultimo acceso = NUNCA
+
+Usuarios que SÍ han iniciado sesión:
+ - Administrador: Estado = True, Ultimo acceso = 08/13/2025 11:24:04
+ - AULA203-04: Estado = True, Ultimo acceso = 09/17/2025 09:09:01
